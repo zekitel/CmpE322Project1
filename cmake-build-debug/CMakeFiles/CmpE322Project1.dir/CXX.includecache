@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/ZekiTel/CLionProjects/CmpE322Project1/main.cpp
+iostream
+-
+fstream
+-
+sstream
+-
+stdlib.h
+-
+queue
+-
+cstdlib
+-
+

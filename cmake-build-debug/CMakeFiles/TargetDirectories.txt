@@ -1,0 +1,3 @@
+/cygdrive/c/Users/ZekiTel/CLionProjects/CmpE322Project1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/ZekiTel/CLionProjects/CmpE322Project1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/ZekiTel/CLionProjects/CmpE322Project1/cmake-build-debug/CMakeFiles/CmpE322Project1.dir

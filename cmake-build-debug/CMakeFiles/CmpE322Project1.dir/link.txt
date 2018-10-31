@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -g  -Wl,--enable-auto-import CMakeFiles/CmpE322Project1.dir/main.cpp.o  -o CmpE322Project1.exe -Wl,--out-implib,libCmpE322Project1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
